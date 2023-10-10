@@ -18,7 +18,7 @@ import os
 ##################
 region_name='OM'
 filename=region_name+' pre e post'
-path=r'D:\Nicolò D\POLIMI\OneDrive - Politecnico di Milano\Dottorato\00_streetart\Intervento fabbrica del vapore\Analisi murales\Colorimetria\Mandela'
+path=r'.'
 folder_path=path+'\\'+filename
 ##################
 
